@@ -41,7 +41,7 @@ a {
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .btn {
     padding: 0rem 0rem;
-    font-size: 0.9rem; } }
+    font-size: 0rem; } }
 
 @media screen and (max-width: 42em) {
   .btn {
@@ -65,7 +65,7 @@ a {
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
-    padding: 3rem 4rem; } }
+    padding: 1rem 1rem; } }
 
 @media screen and (max-width: 42em) {
   .page-header {
