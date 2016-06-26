@@ -14,7 +14,8 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
-
+.profile {
+    border-radius: 50%;}
 .btn {
   display: inline-table;
   margin-bottom: 0rem;
