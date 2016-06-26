@@ -182,7 +182,7 @@ sub {
  */
 
 img {
-  border-radius: 70px;
+  border-radius: 0px;
 }
 
 /**
