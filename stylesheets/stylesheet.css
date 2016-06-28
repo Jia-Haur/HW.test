@@ -99,8 +99,8 @@
 }
 .eg-CSS3-transitions {
     -webkit-transition: width 1s;
-            transition: height 1s;
-    -webkit-transition: width 1s;
+            transition: width 1s;
+    -webkit-transition: height 1s;
             transition: height 1s;
 }
 
